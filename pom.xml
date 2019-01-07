@@ -40,7 +40,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:jdobrogowski/pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
   </scm>
 
 </project>
